@@ -1,0 +1,37 @@
+[
+{
+"Type" :"Communities",
+"CoverImage":"https://raw.githubusercontent.com/tlssoftware/raw-material/master/minipos-offline/app/tab1_01.jpg",
+"YoutubeUrl":""
+},
+{
+"Type" :"Communities",
+"CoverImage":"https://raw.githubusercontent.com/tlssoftware/raw-material/master/minipos-offline/app/tab1_02.jpg",
+"YoutubeUrl":""
+},
+{
+"Type" :"Communities",
+"CoverImage":"https://raw.githubusercontent.com/tlssoftware/raw-material/master/minipos-offline/app/tab1_03.png",
+"YoutubeUrl":""
+},
+{
+"Type" :"Tips",
+"CoverImage":"https://raw.githubusercontent.com/tlssoftware/raw-material/master/minipos-offline/app/tab2_01.jpg",
+"YoutubeUrl":"https://www.youtube.com/watch?v=QDzDfFMQwok"
+},
+{
+"Type" :"Guides",
+"CoverImage":"https://raw.githubusercontent.com/tlssoftware/raw-material/master/minipos-offline/app/tab3_01.png",
+"YoutubeUrl":"https://www.youtube.com/watch?v=QDzDfFMQwok"
+},
+{
+"Type" :"Guides",
+"CoverImage":"https://raw.githubusercontent.com/tlssoftware/raw-material/master/minipos-offline/app/tab3_02.jpg",
+"YoutubeUrl":"https://www.youtube.com/watch?v=QDzDfFMQwok"
+},
+{
+"Type" :"Guides",
+"CoverImage":"https://raw.githubusercontent.com/tlssoftware/raw-material/master/minipos-offline/app/tab3_03.jpg",
+"YoutubeUrl":"https://www.youtube.com/watch?v=QDzDfFMQwok"
+}
+]
